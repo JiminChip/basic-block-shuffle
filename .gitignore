@@ -1,0 +1,13 @@
+build/
+__pycache__/
+*.pyc
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+examples/elf-lld/demo.plain
+examples/elf-lld/demo.shuffle.*
+examples/elf-lld/demo.o
+examples/elf-lld/*.map
