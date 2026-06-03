@@ -102,14 +102,6 @@ make inspect
 The example builds a plain binary, two shuffled binaries with different seeds,
 and an object file for checking emitted basic-block sections.
 
-## Tests
-
-Use the requested venv:
-
-```bash
-python -m unittest discover -s basic-block-shuffle/tests
-```
-
 ## Limitations
 
 - ELF/lld only.
