@@ -107,7 +107,6 @@ and an object file for checking emitted basic-block sections.
 Use the requested venv:
 
 ```bash
-source /mnt/c/Hacking/myenv/bin/activate
 python -m unittest discover -s basic-block-shuffle/tests
 ```
 
